@@ -1,0 +1,46 @@
+body{
+	background-color: #e5e5e5;
+	font-family: arial;
+}
+header{
+	background-color: rgb(235,159,51);
+	height: 50px;
+	padding-bottom: 20px;
+}
+.header-cont{
+	width: 1200px;
+	margin: 0 auto;
+}
+.header-cont ul li{
+	float: right;
+	padding-right: 5px;
+	list-style: none;
+}
+.header-cont ul li a{
+	text-decoration: none;
+	padding-left: 20px;
+	padding-bottom: 13px;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: arial;
+	color: #000;
+}
+.Kenpa{
+	background-color: white;
+	height: 650px;
+	margin: 0 auto;
+	width: 1200px;
+}
+.Kenpa img{
+	float: left;
+	padding-right: 40px;
+
+}
+
+footer{
+	font-size: 12px;
+	text-align: center;
+	padding-top: 20px;
+	color: tomato;
+	float: center;
+}
