@@ -70,12 +70,16 @@ body{
 	display: inline;
 	padding-right: 10px;
 }
+.login form input[type=radio]{
+	padding-right: 20px;
+}
 
 .login_cont form input[type=submit]{
 	color: #fff;
 	border: none;
 	height: 40px;
 	width: 330px;
-	background-color: #444444;
+	background-color: #555555;
+	border-radius: 5px;
 
 }

@@ -1,0 +1,71 @@
+@font-face{
+	font-family: ;
+	src: url(../font/Magdaline.ttf);
+}
+body{
+	background-color: #ddd;
+	background-size: cover;
+	font-family: arial;
+	color: #222;
+	
+}
+h1{
+	font-family: 'Signika', sans-serif;
+}
+
+h2{
+	font-family: 'Arsenal', sans-serif;
+}
+p{
+	font-family: 'Rasa', serif;
+}
+
+.cont{
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #fff;
+}
+.facebook-icon{
+	color: #fff;
+	background-color: #3c5a99;
+	width: 40px;
+	height: 40px;
+	font-size: 2em;
+	text-align: center;
+	display: inline-block;
+	border-radius: 20px;
+
+}
+
+.twitter-icon{
+	color: #fff;
+	background-color: #38A1F3;
+	width: 40px;
+	height: 40px;
+	font-size: 2em;
+	text-align: center;
+	display: inline-block;
+	border-radius: 20px;
+
+}
+.instagram-icon{
+	color: #fff;
+	background-color: #E1306C;
+	width: 40px;
+	height: 40px;
+	font-size: 2em;
+	/*text-align: center;*/
+	/*display: inline-block;*/
+	/*border-radius: 20px;*/
+}
+.whatsApp-icon{
+	color: #fff;
+	background-color: #4AC959;
+	width: 40px;
+	height: 40px;
+	font-size: 2em;
+	text-align: center;
+	display: inline-block;
+	border-radius: 20px;
+}
